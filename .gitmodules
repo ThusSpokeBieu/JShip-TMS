@@ -1,0 +1,6 @@
+[submodule "JShip-TMS-Hub"]
+	path = JShip-TMS-Hub
+	url = git@github.com:gmessiasc/JShip-TMS-Hub.git
+[submodule "JShip-TMS-Front"]
+	path = JShip-TMS-Front
+	url = git@github.com:gmessiasc/JShip-TMS-Front.git
